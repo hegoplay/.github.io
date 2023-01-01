@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 
 It now imcludes step for Github
 Include how to work with branches on Github
+
+Changing some content to make it different
