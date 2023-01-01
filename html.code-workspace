@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../cpp"
+		},
+		{
+			"path": "../../python.workspace"
+		},
+		{
+			"path": "../../NoSQL"
+		},
+		{
+			"path": "../../Js"
+		},
+		{
+			"path": "../../Code/Java"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html",
+		"files.associations": {
+			"algorithm": "cpp"
+		}
+	}
+}
